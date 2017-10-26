@@ -1,0 +1,33 @@
+Project 4 - Mystery House Game
+CECS 277 Sec 01
+November 20, 2016
+///////////////////////////////////////
+Anthony Lopez
+ID: 011730548
+e-mail: Anthony.Lopez@student.csulb.edu
+///////////////////////////////////////
+FILES:
+1. GAME_MASTER
+2. GUESS_NUMBER
+3. NIM_GAME
+4. IRepl
+5. ARepl
+6. CheckInput
+7. MystHouse
+8. Room
+9. Player
+10. Zombie
+11. FirstAidKit
+
+///////////////////////////////////////
+RUN INFO:
+Mystery House is option 3 on Game Master.
+Game is text Based. Takes a good amount of
+time to escape, trial and error type game.
+///////////////////////////////////////
+BUGS:
+I have made it so Zombies cannot randomly 
+be put in the outside room, and be deleted 
+from the game. ALl three zombies remain throughout
+entire playthrough.
+///////////////////////////////////////
